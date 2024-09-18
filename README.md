@@ -1,11 +1,11 @@
 <p align="center">
     <a href="https://croct.com">
-        <img src="https://cdn.croct.io/brand/logo/repo-icon-green.svg" alt="Croct" height="80"/>
+        <img src="https://github.com/lhgms/Dark_Teste_3/blob/1ec856c41e8081edad5004d0a41ef64c5f9a541e/Cover_dark_Teste9.png" width="830"/>
+        <h3 align="center">Admin</h3>
     </a>
-    <br />
-    <strong>Go Project Title</strong>
-    <br />
-    A brief description about the project.
+</p>
+<p align="center">
+  The backend administration application of the Croct plataform.
 </p>
 <p align="center">
     <img alt="Language" src="https://img.shields.io/badge/language-Go-blue" />
@@ -19,7 +19,8 @@
         <a href="https://github.com/croct-tech/repository-template-go/issues/new?labels=bug&template=bug-report.md">🐞 Report Bug</a>
         ·
         <a href="https://github.com/croct-tech/repository-template-go/issues/new?labels=enhancement&template=feature-request.md">✨ Request Feature</a>
-</p>
+</br>
+</br>
 
 # Instructions
 Follow the steps below to create a new repository:
