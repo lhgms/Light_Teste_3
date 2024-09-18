@@ -22,7 +22,7 @@
 </br>
 </br>
 
-# Instructions
+## Instructions
 Follow the steps below to create a new repository:
 
 1. Customize the repository
